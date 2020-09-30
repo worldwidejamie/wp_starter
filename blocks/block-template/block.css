@@ -1,0 +1,9 @@
+.section__inner { max-width: 92vw; margin: 0 auto; }
+
+p, span, a, .sans { font-family: "Lato", sans-serif; font-size: 20px; font-size: 1.25rem; }
+
+.entry-content h1, .entry-content .h1, .entry-content h2, .entry-content .h2, .entry-content h3, .entry-content .h3, .entry-content h4, .entry-content .h4, .entry-content h5, .entry-content .h5, .entry-content h6, .entry-content .h6, .entry-content .serif { font-family: "Frank Ruhl Libre", serif; color: #002855; margin: 0; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL2NvbXBvbmVudHMvX2NvbnRlbnQuc2NzcyIsIi4uL3V0aWxzL190eXBvZ3JhcGh5LnNjc3MiLCIuLi91dGlscy9fZnVuY3Rpb25zLnNjc3MiLCIuLi91dGlscy9fdmFyaWFibGVzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsa0JBQ0MsZUFBZSxFQUNmLGNBQWMsRUFBQTs7QUFHZixvQkFJQywrQkNOd0IsRURPeEIsZUVGNEQsRUZFNUQsa0JFRjRELEVBQUE7O0FGSzdELGtRQWNFLHNDQ3pCK0IsRUQwQi9CLGNHdEJZLEVIdUJaLFNBQVMsRUFBQSIsImZpbGUiOiJibG9jay10ZW1wbGF0ZS9ibG9jay5jc3MifQ== */
+
+/*# sourceMappingURL=block.css.map */

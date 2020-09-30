@@ -1,0 +1,27 @@
+header#site-header.header-footer-group {
+	background: $blue;
+}
+
+.modal-menu li {
+	border: none;
+}
+
+.modal-menu .ancestor-wrapper a {
+	padding-top: rem-calc(16);
+}
+
+header .site-logo {
+	width: 12vw;
+}
+
+header#site-header nav.primary-menu-wrapper {
+	li.menu-item {
+		font-size: rem-calc(14);
+
+		a {
+			color: $white;
+			text-transform: uppercase;
+			letter-spacing: rem-calc(0.1);
+		}
+	}
+}

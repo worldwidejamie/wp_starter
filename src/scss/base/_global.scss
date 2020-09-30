@@ -1,0 +1,59 @@
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $lato;
+  overflow-x: hidden;
+  color: $grey-dark;
+  line-height: 1.4;
+}
+
+.color-accent,
+.color-accent-hover:hover,
+.color-accent-hover:focus,
+:root .has-accent-color,
+.has-drop-cap:not(:focus):first-letter,
+.wp-block-button.is-style-outline,
+html a {
+  color: $blue;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  outline: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.site {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+main#site-content .entry-header {
+  display: none;
+}
+
+.entry-content
+  > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
+  max-width: 100vw;
+  width: 100vw;
+}
